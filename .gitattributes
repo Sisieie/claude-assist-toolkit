@@ -1,0 +1,10 @@
+# Normalize line endings
+# Do not edit manually
+*.md linguist-documentation
+go.sum linguist-generated
+*.yaml linguist-detectable=false   
+src/** linguist-detectable
+src/**/*.ts linguist-detectable
+yarn.lock linguist-generated
+public/index.html linguist-vendored
+# eof 147994a9
